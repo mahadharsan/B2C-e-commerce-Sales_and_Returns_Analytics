@@ -1,4 +1,4 @@
-### ACADIA ANALYTICS ASSIGNMENT
+### ANALYTICS ASSIGNMENT
 ## MAHADHARSAN RAVICHANDRAN - mahadharsanusa@gmail.com
 ##CONTENTS
 -- Questions and Answers Queries
