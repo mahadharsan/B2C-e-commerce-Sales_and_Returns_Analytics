@@ -2,7 +2,7 @@
 # Retail SQL Project
 
 ## Overview
-This project contains SQL scripts for the retail database. It includes schemas, tables, and queries that demonstrate various operations.
+This project contains SQL scripts for the analytics using a B2C e-commerce database. It includes schemas, tables, and queries that demonstrate various operations.
 
 ## Installation
 To run these scripts, you will need access to a SQL server. Follow the steps below to set up the database:
